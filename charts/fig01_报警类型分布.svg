@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="360.087812pt" height="212.193438pt" viewBox="0 0 360.087812 212.193438" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-11T01:38:34.587639</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.9.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 212.193438 
+L 360.087812 212.193438 
+L 360.087812 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 40.407813 187.51375 
+L 352.887812 187.51375 
+L 352.887812 21.19375 
+L 40.407813 21.19375 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 54.611449 187.51375 
+L 91.664413 187.51375 
+L 91.664413 40.59775 
+L 54.611449 40.59775 
+z
+" clip-path="url(#p1fe18b337b)" style="fill: #2e7d6b"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 116.36639 187.51375 
+L 153.419354 187.51375 
+L 153.419354 104.35375 
+L 116.36639 104.35375 
+z
+" clip-path="url(#p1fe18b337b)" style="fill: #2e7d6b"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 178.12133 187.51375 
+L 215.174295 187.51375 
+L 215.174295 109.89775 
+L 178.12133 109.89775 
+z
+" clip-path="url(#p1fe18b337b)" style="fill: #2e7d6b"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 239.876271 187.51375 
+L 276.929235 187.51375 
+L 276.929235 115.44175 
+L 239.876271 115.44175 
+z
+" clip-path="url(#p1fe18b337b)" style="fill: #c00000"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 301.631212 187.51375 
+L 338.684176 187.51375 
+L 338.684176 129.30175 
+L 301.631212 129.30175 
+z
+" clip-path="url(#p1fe18b337b)" style="fill: #c00000"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <defs>
+       <path id="m268c42ae61" d="M 0 0 
+L 0 3.5 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m268c42ae61" x="73.137931" y="187.51375" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font: 10px 'Microsoft YaHei', 'SimHei', sans-serif; text-anchor: middle" x="73.137931" y="202.5075" transform="rotate(-0 73.137931 202.5075)">车道偏离</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <g>
+       <use xlink:href="#m268c42ae61" x="134.892872" y="187.51375" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font: 10px 'Microsoft YaHei', 'SimHei', sans-serif; text-anchor: middle" x="134.892872" y="202.5075" transform="rotate(-0 134.892872 202.5075)">车距过近</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3">
+      <g>
+       <use xlink:href="#m268c42ae61" x="196.647813" y="187.51375" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font: 10px 'Microsoft YaHei', 'SimHei', sans-serif; text-anchor: middle" x="196.647813" y="202.5075" transform="rotate(-0 196.647813 202.5075)">BSD盲区</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#m268c42ae61" x="258.402753" y="187.51375" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="font: 10px 'Microsoft YaHei', 'SimHei', sans-serif; text-anchor: middle" x="258.402753" y="202.5075" transform="rotate(-0 258.402753 202.5075)">前向碰撞</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_5">
+      <g>
+       <use xlink:href="#m268c42ae61" x="320.157694" y="187.51375" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font: 10px 'Microsoft YaHei', 'SimHei', sans-serif; text-anchor: middle" x="320.157694" y="202.5075" transform="rotate(-0 320.157694 202.5075)">行人碰撞</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_6">
+      <defs>
+       <path id="m2798908580" d="M 0 0 
+L -3.5 0 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m2798908580" x="40.407813" y="187.51375" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <text style="font: 10px 'Microsoft YaHei', 'SimHei', sans-serif; text-anchor: end" x="33.407813" y="191.510625" transform="rotate(-0 33.407813 191.510625)">0</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_7">
+      <g>
+       <use xlink:href="#m2798908580" x="40.407813" y="159.79375" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <text style="font: 10px 'Microsoft YaHei', 'SimHei', sans-serif; text-anchor: end" x="33.407813" y="163.790625" transform="rotate(-0 33.407813 163.790625)">10</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#m2798908580" x="40.407813" y="132.07375" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <text style="font: 10px 'Microsoft YaHei', 'SimHei', sans-serif; text-anchor: end" x="33.407813" y="136.070625" transform="rotate(-0 33.407813 136.070625)">20</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_9">
+      <g>
+       <use xlink:href="#m2798908580" x="40.407813" y="104.35375" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <text style="font: 10px 'Microsoft YaHei', 'SimHei', sans-serif; text-anchor: end" x="33.407813" y="108.350625" transform="rotate(-0 33.407813 108.350625)">30</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_10">
+      <g>
+       <use xlink:href="#m2798908580" x="40.407813" y="76.63375" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_10">
+      <text style="font: 10px 'Microsoft YaHei', 'SimHei', sans-serif; text-anchor: end" x="33.407813" y="80.630625" transform="rotate(-0 33.407813 80.630625)">40</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_11">
+      <g>
+       <use xlink:href="#m2798908580" x="40.407813" y="48.91375" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_11">
+      <text style="font: 10px 'Microsoft YaHei', 'SimHei', sans-serif; text-anchor: end" x="33.407813" y="52.910625" transform="rotate(-0 33.407813 52.910625)">50</text>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_12">
+      <g>
+       <use xlink:href="#m2798908580" x="40.407813" y="21.19375" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_12">
+      <text style="font: 10px 'Microsoft YaHei', 'SimHei', sans-serif; text-anchor: end" x="33.407813" y="25.190625" transform="rotate(-0 33.407813 25.190625)">60</text>
+     </g>
+    </g>
+    <g id="text_13">
+     <text style="font: 10px 'Microsoft YaHei', 'SimHei', sans-serif; text-anchor: middle" x="15.19375" y="104.35375" transform="rotate(-90 15.19375 104.35375)">报警次数</text>
+    </g>
+   </g>
+   <g id="patch_8">
+    <path d="M 40.407813 187.51375 
+L 40.407813 21.19375 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 40.407813 187.51375 
+L 352.887812 187.51375 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_14">
+    <text style="font: 9px 'Microsoft YaHei', 'SimHei', sans-serif; text-anchor: middle" x="73.137931" y="37.82575" transform="rotate(-0 73.137931 37.82575)">53</text>
+   </g>
+   <g id="text_15">
+    <text style="font: 9px 'Microsoft YaHei', 'SimHei', sans-serif; text-anchor: middle" x="134.892872" y="101.58175" transform="rotate(-0 134.892872 101.58175)">30</text>
+   </g>
+   <g id="text_16">
+    <text style="font: 9px 'Microsoft YaHei', 'SimHei', sans-serif; text-anchor: middle" x="196.647813" y="107.12575" transform="rotate(-0 196.647813 107.12575)">28</text>
+   </g>
+   <g id="text_17">
+    <text style="font: 9px 'Microsoft YaHei', 'SimHei', sans-serif; text-anchor: middle" x="258.402753" y="112.66975" transform="rotate(-0 258.402753 112.66975)">26</text>
+   </g>
+   <g id="text_18">
+    <text style="font: 9px 'Microsoft YaHei', 'SimHei', sans-serif; text-anchor: middle" x="320.157694" y="126.52975" transform="rotate(-0 320.157694 126.52975)">21</text>
+   </g>
+   <g id="text_19">
+    <text style="font: 10px 'Microsoft YaHei', 'SimHei', sans-serif; text-anchor: middle" x="196.647813" y="15.19375" transform="rotate(-0 196.647813 15.19375)">真实样本车 ADAS 报警类型分布（158次/4天）</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p1fe18b337b">
+   <rect x="40.407813" y="21.19375" width="312.48" height="166.32"/>
+  </clipPath>
+ </defs>
+</svg>

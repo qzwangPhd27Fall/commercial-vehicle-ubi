@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="365.951875pt" height="212.193438pt" viewBox="0 0 365.951875 212.193438" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-11T01:38:35.160119</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.9.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 212.193438 
+L 365.951875 212.193438 
+L 365.951875 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 46.271875 187.51375 
+L 358.751875 187.51375 
+L 358.751875 21.19375 
+L 46.271875 21.19375 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 60.475511 187.51375 
+L 97.528476 187.51375 
+L 97.528476 68.71375 
+L 60.475511 68.71375 
+z
+" clip-path="url(#p8ca0912d1a)" style="fill: #1f9e6e"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 122.230452 187.51375 
+L 159.283417 187.51375 
+L 159.283417 68.71375 
+L 122.230452 68.71375 
+z
+" clip-path="url(#p8ca0912d1a)" style="fill: #5bb98c"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 183.985393 187.51375 
+L 221.038357 187.51375 
+L 221.038357 68.71375 
+L 183.985393 68.71375 
+z
+" clip-path="url(#p8ca0912d1a)" style="fill: #d6a93a"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 245.740333 187.51375 
+L 282.793298 187.51375 
+L 282.793298 68.71375 
+L 245.740333 68.71375 
+z
+" clip-path="url(#p8ca0912d1a)" style="fill: #d97b3a"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 307.495274 187.51375 
+L 344.548239 187.51375 
+L 344.548239 68.71375 
+L 307.495274 68.71375 
+z
+" clip-path="url(#p8ca0912d1a)" style="fill: #c0392b"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <defs>
+       <path id="mc88adb4fe1" d="M 0 0 
+L 0 3.5 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#mc88adb4fe1" x="79.001994" y="187.51375" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font: 10px 'Microsoft YaHei', 'SimHei', sans-serif; text-anchor: middle" x="79.001994" y="202.5075" transform="rotate(-0 79.001994 202.5075)">A</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <g>
+       <use xlink:href="#mc88adb4fe1" x="140.756934" y="187.51375" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font: 10px 'Microsoft YaHei', 'SimHei', sans-serif; text-anchor: middle" x="140.756934" y="202.5075" transform="rotate(-0 140.756934 202.5075)">B</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3">
+      <g>
+       <use xlink:href="#mc88adb4fe1" x="202.511875" y="187.51375" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font: 10px 'Microsoft YaHei', 'SimHei', sans-serif; text-anchor: middle" x="202.511875" y="202.5075" transform="rotate(-0 202.511875 202.5075)">C</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#mc88adb4fe1" x="264.266816" y="187.51375" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="font: 10px 'Microsoft YaHei', 'SimHei', sans-serif; text-anchor: middle" x="264.266816" y="202.5075" transform="rotate(-0 264.266816 202.5075)">D</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_5">
+      <g>
+       <use xlink:href="#mc88adb4fe1" x="326.021756" y="187.51375" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font: 10px 'Microsoft YaHei', 'SimHei', sans-serif; text-anchor: middle" x="326.021756" y="202.5075" transform="rotate(-0 326.021756 202.5075)">E</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_6">
+      <defs>
+       <path id="me195a52d0e" d="M 0 0 
+L -3.5 0 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#me195a52d0e" x="46.271875" y="187.51375" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <text style="font: 10px 'Microsoft YaHei', 'SimHei', sans-serif; text-anchor: end" x="39.271875" y="191.510625" transform="rotate(-0 39.271875 191.510625)">0</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_7">
+      <g>
+       <use xlink:href="#me195a52d0e" x="46.271875" y="157.81375" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <text style="font: 10px 'Microsoft YaHei', 'SimHei', sans-serif; text-anchor: end" x="39.271875" y="161.810625" transform="rotate(-0 39.271875 161.810625)">20</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#me195a52d0e" x="46.271875" y="128.11375" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <text style="font: 10px 'Microsoft YaHei', 'SimHei', sans-serif; text-anchor: end" x="39.271875" y="132.110625" transform="rotate(-0 39.271875 132.110625)">40</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_9">
+      <g>
+       <use xlink:href="#me195a52d0e" x="46.271875" y="98.41375" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <text style="font: 10px 'Microsoft YaHei', 'SimHei', sans-serif; text-anchor: end" x="39.271875" y="102.410625" transform="rotate(-0 39.271875 102.410625)">60</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_10">
+      <g>
+       <use xlink:href="#me195a52d0e" x="46.271875" y="68.71375" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_10">
+      <text style="font: 10px 'Microsoft YaHei', 'SimHei', sans-serif; text-anchor: end" x="39.271875" y="72.710625" transform="rotate(-0 39.271875 72.710625)">80</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_11">
+      <g>
+       <use xlink:href="#me195a52d0e" x="46.271875" y="39.01375" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_11">
+      <text style="font: 10px 'Microsoft YaHei', 'SimHei', sans-serif; text-anchor: end" x="39.271875" y="43.010625" transform="rotate(-0 39.271875 43.010625)">100</text>
+     </g>
+    </g>
+    <g id="text_12">
+     <text style="font: 10px 'Microsoft YaHei', 'SimHei', sans-serif; text-anchor: middle" x="15.19375" y="104.35375" transform="rotate(-90 15.19375 104.35375)">车辆数</text>
+    </g>
+   </g>
+   <g id="patch_8">
+    <path d="M 46.271875 187.51375 
+L 46.271875 21.19375 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 46.271875 187.51375 
+L 358.751875 187.51375 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_13">
+    <text style="font: 9px 'Microsoft YaHei', 'SimHei', sans-serif; text-anchor: middle" x="79.001994" y="65.74375" transform="rotate(-0 79.001994 65.74375)">80</text>
+   </g>
+   <g id="text_14">
+    <text style="font: 9px 'Microsoft YaHei', 'SimHei', sans-serif; text-anchor: middle" x="140.756934" y="65.74375" transform="rotate(-0 140.756934 65.74375)">80</text>
+   </g>
+   <g id="text_15">
+    <text style="font: 9px 'Microsoft YaHei', 'SimHei', sans-serif; text-anchor: middle" x="202.511875" y="65.74375" transform="rotate(-0 202.511875 65.74375)">80</text>
+   </g>
+   <g id="text_16">
+    <text style="font: 9px 'Microsoft YaHei', 'SimHei', sans-serif; text-anchor: middle" x="264.266816" y="65.74375" transform="rotate(-0 264.266816 65.74375)">80</text>
+   </g>
+   <g id="text_17">
+    <text style="font: 9px 'Microsoft YaHei', 'SimHei', sans-serif; text-anchor: middle" x="326.021756" y="65.74375" transform="rotate(-0 326.021756 65.74375)">80</text>
+   </g>
+   <g id="text_18">
+    <text style="font: 10px 'Microsoft YaHei', 'SimHei', sans-serif; text-anchor: middle" x="202.511875" y="15.19375" transform="rotate(-0 202.511875 15.19375)">车队风险分级分布（A-E）</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p8ca0912d1a">
+   <rect x="46.271875" y="21.19375" width="312.48" height="166.32"/>
+  </clipPath>
+ </defs>
+</svg>

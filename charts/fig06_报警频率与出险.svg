@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="374.22375pt" height="226.673125pt" viewBox="0 0 374.22375 226.673125" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-11T01:38:35.926473</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.9.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 226.673125 
+L 374.22375 226.673125 
+L 374.22375 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 54.54375 187.51375 
+L 367.02375 187.51375 
+L 367.02375 21.19375 
+L 54.54375 21.19375 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <defs>
+       <path id="m257d513784" d="M 0 0 
+L 0 3.5 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m257d513784" x="85.384867" y="187.51375" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font: 10px 'Microsoft YaHei', 'SimHei', sans-serif; text-anchor: middle" x="85.384867" y="202.5075" transform="rotate(-0 85.384867 202.5075)">5.0</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <g>
+       <use xlink:href="#m257d513784" x="125.944689" y="187.51375" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font: 10px 'Microsoft YaHei', 'SimHei', sans-serif; text-anchor: middle" x="125.944689" y="202.5075" transform="rotate(-0 125.944689 202.5075)">7.5</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3">
+      <g>
+       <use xlink:href="#m257d513784" x="166.504512" y="187.51375" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font: 10px 'Microsoft YaHei', 'SimHei', sans-serif; text-anchor: middle" x="166.504512" y="202.5075" transform="rotate(-0 166.504512 202.5075)">10.0</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#m257d513784" x="207.064335" y="187.51375" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="font: 10px 'Microsoft YaHei', 'SimHei', sans-serif; text-anchor: middle" x="207.064335" y="202.5075" transform="rotate(-0 207.064335 202.5075)">12.5</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_5">
+      <g>
+       <use xlink:href="#m257d513784" x="247.624157" y="187.51375" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font: 10px 'Microsoft YaHei', 'SimHei', sans-serif; text-anchor: middle" x="247.624157" y="202.5075" transform="rotate(-0 247.624157 202.5075)">15.0</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#m257d513784" x="288.18398" y="187.51375" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <text style="font: 10px 'Microsoft YaHei', 'SimHei', sans-serif; text-anchor: middle" x="288.18398" y="202.5075" transform="rotate(-0 288.18398 202.5075)">17.5</text>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="line2d_7">
+      <g>
+       <use xlink:href="#m257d513784" x="328.743803" y="187.51375" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <text style="font: 10px 'Microsoft YaHei', 'SimHei', sans-serif; text-anchor: middle" x="328.743803" y="202.5075" transform="rotate(-0 328.743803 202.5075)">20.0</text>
+     </g>
+    </g>
+    <g id="text_8">
+     <text style="font: 10px 'Microsoft YaHei', 'SimHei', sans-serif; text-anchor: middle" x="210.78375" y="216.987188" transform="rotate(-0 210.78375 216.987188)">百公里报警频率（次/百公里）</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_8">
+      <defs>
+       <path id="m6e0e3c3cc6" d="M 0 0 
+L -3.5 0 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m6e0e3c3cc6" x="54.54375" y="183.163461" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <text style="font: 10px 'Microsoft YaHei', 'SimHei', sans-serif; text-anchor: end" x="47.54375" y="187.160336" transform="rotate(-0 47.54375 187.160336)">0.005</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_9">
+      <g>
+       <use xlink:href="#m6e0e3c3cc6" x="54.54375" y="157.295722" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_10">
+      <text style="font: 10px 'Microsoft YaHei', 'SimHei', sans-serif; text-anchor: end" x="47.54375" y="161.292597" transform="rotate(-0 47.54375 161.292597)">0.010</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_10">
+      <g>
+       <use xlink:href="#m6e0e3c3cc6" x="54.54375" y="131.427982" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_11">
+      <text style="font: 10px 'Microsoft YaHei', 'SimHei', sans-serif; text-anchor: end" x="47.54375" y="135.424857" transform="rotate(-0 47.54375 135.424857)">0.015</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_11">
+      <g>
+       <use xlink:href="#m6e0e3c3cc6" x="54.54375" y="105.560242" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_12">
+      <text style="font: 10px 'Microsoft YaHei', 'SimHei', sans-serif; text-anchor: end" x="47.54375" y="109.557117" transform="rotate(-0 47.54375 109.557117)">0.020</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_12">
+      <g>
+       <use xlink:href="#m6e0e3c3cc6" x="54.54375" y="79.692503" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_13">
+      <text style="font: 10px 'Microsoft YaHei', 'SimHei', sans-serif; text-anchor: end" x="47.54375" y="83.689378" transform="rotate(-0 47.54375 83.689378)">0.025</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_13">
+      <g>
+       <use xlink:href="#m6e0e3c3cc6" x="54.54375" y="53.824763" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_14">
+      <text style="font: 10px 'Microsoft YaHei', 'SimHei', sans-serif; text-anchor: end" x="47.54375" y="57.821638" transform="rotate(-0 47.54375 57.821638)">0.030</text>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_14">
+      <g>
+       <use xlink:href="#m6e0e3c3cc6" x="54.54375" y="27.957024" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_15">
+      <text style="font: 10px 'Microsoft YaHei', 'SimHei', sans-serif; text-anchor: end" x="47.54375" y="31.953899" transform="rotate(-0 47.54375 31.953899)">0.035</text>
+     </g>
+    </g>
+    <g id="text_16">
+     <text style="font: 10px 'Microsoft YaHei', 'SimHei', sans-serif; text-anchor: middle" x="15.19375" y="104.35375" transform="rotate(-90 15.19375 104.35375)">每万公里出险次数</text>
+    </g>
+   </g>
+   <g id="line2d_15">
+    <path d="M 68.747386 179.76515 
+L 96.509847 179.95375 
+L 118.182653 114.46686 
+L 140.069051 109.445476 
+L 164.362953 43.46732 
+L 190.096809 64.635323 
+L 233.671578 108.943743 
+L 352.820114 28.75375 
+" clip-path="url(#pe341bb69b4)" style="fill: none; stroke: #c00000; stroke-width: 2; stroke-linecap: square"/>
+    <defs>
+     <path id="m41915af991" d="M 0 3 
+C 0.795609 3 1.55874 2.683901 2.12132 2.12132 
+C 2.683901 1.55874 3 0.795609 3 0 
+C 3 -0.795609 2.683901 -1.55874 2.12132 -2.12132 
+C 1.55874 -2.683901 0.795609 -3 0 -3 
+C -0.795609 -3 -1.55874 -2.683901 -2.12132 -2.12132 
+C -2.683901 -1.55874 -3 -0.795609 -3 0 
+C -3 0.795609 -2.683901 1.55874 -2.12132 2.12132 
+C -1.55874 2.683901 -0.795609 3 0 3 
+z
+" style="stroke: #c00000"/>
+    </defs>
+    <g clip-path="url(#pe341bb69b4)">
+     <use xlink:href="#m41915af991" x="68.747386" y="179.76515" style="fill: #c00000; stroke: #c00000"/>
+     <use xlink:href="#m41915af991" x="96.509847" y="179.95375" style="fill: #c00000; stroke: #c00000"/>
+     <use xlink:href="#m41915af991" x="118.182653" y="114.46686" style="fill: #c00000; stroke: #c00000"/>
+     <use xlink:href="#m41915af991" x="140.069051" y="109.445476" style="fill: #c00000; stroke: #c00000"/>
+     <use xlink:href="#m41915af991" x="164.362953" y="43.46732" style="fill: #c00000; stroke: #c00000"/>
+     <use xlink:href="#m41915af991" x="190.096809" y="64.635323" style="fill: #c00000; stroke: #c00000"/>
+     <use xlink:href="#m41915af991" x="233.671578" y="108.943743" style="fill: #c00000; stroke: #c00000"/>
+     <use xlink:href="#m41915af991" x="352.820114" y="28.75375" style="fill: #c00000; stroke: #c00000"/>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 54.54375 187.51375 
+L 54.54375 21.19375 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 54.54375 187.51375 
+L 367.02375 187.51375 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_17">
+    <text style="font: 10px 'Microsoft YaHei', 'SimHei', sans-serif; text-anchor: middle" x="210.78375" y="15.19375" transform="rotate(-0 210.78375 15.19375)">近失事件频率是出险的先导指标</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pe341bb69b4">
+   <rect x="54.54375" y="21.19375" width="312.48" height="166.32"/>
+  </clipPath>
+ </defs>
+</svg>
